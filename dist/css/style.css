@@ -69,9 +69,9 @@ ul {
 }
 .logo {
   display: inline-block;
-  margin-bottom: 8px;
-  margin-top: 70px;
-  width: 120px;
+  margin-top: 50px;
+  padding: 50px 0;
+  width: 230px;
 }
 .logo img {
   width: 100%;
@@ -231,6 +231,7 @@ ul {
   overflow: hidden;
   position: relative;
   width: 33.33%;
+  padding: 2px;
 }
 .gallery .gallery-grid a .gallery-item {
   background-position: center center;
@@ -289,8 +290,7 @@ ul {
 .subpageheader {
   background: #000 none repeat scroll 0 0;
   color: #fff;
-  height: 250px;
-  padding: 60px 40px;
+  padding: 15px 40px;
   margin-bottom: 30px;
 }
 .subpageheader h3 {
@@ -306,7 +306,7 @@ ul {
   font-weight: 300;
 }
 .about {
-  background: #333333 none repeat scroll 0 0;
+  background: #281a0d none repeat scroll 0 0;
   display: inline-block;
   margin-top: 30px;
   padding: 10px 40px;
